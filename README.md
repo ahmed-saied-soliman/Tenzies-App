@@ -1,7 +1,10 @@
 # Getting Started with Create React App
 
 Building Tenzies Game Using ReactJS.
-Features: - Implementing Rolls counter & save minimum rolls count in localstorage - Implementing Stopwatch when the game started & save best time in localstorage
+
+Features: 
+- Implementing Rolls counter & save minimum rolls count in localstorage 
+- Implementing Stopwatch when the game started & save best time in localstorage
 
 ## Available Scripts
 
